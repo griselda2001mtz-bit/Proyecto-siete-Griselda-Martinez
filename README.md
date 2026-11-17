@@ -1,1 +1,3 @@
 # Proyecto-siete-Griselda-Martinez
+Es una oplicacion web para explorar los datos de anuncios de ventas de vehículos, en esta aplicacion los usuarios pueden interpretar informacion mediante gráficos (histograma y gráfico de dispersión). 
+En el histograma podran identificar la distribución de precios, y en el gráfico de dispersión se reflejara la relación entre año del modelo y precio, diferenciando por tipo de combustible.
